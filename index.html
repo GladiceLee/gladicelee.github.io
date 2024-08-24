@@ -95,7 +95,7 @@
                 projects: []
             },
             created() {
-                fetch('https://api.github.com/users/GladiceLee/repos')
+                fetch('https://api.github.com/users/gladicelee/repos')
                     .then(response => response.json())
                     .then(data => {
                         this.projects = data;
