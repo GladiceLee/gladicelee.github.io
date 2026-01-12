@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/CardPost.astro";
+const allPosts = await getCollection("posts");
+const pageTitle = "Certifications";
+---
+
+<Layout pageTitle={pageTitle}>
+    <h2>Certifications</h2>
+    <ul role="list" class="link-card-grid">
+        {
+            allPosts.map((cardPost) => (
+                <Card
+                    url={`/posts/${cardPost.id}/`}
+                    image={cardPost.data.image.url}
+                    title={cardPost.data.title}
+                    date={cardPost.data.date}
+                />
+            ))
+        }
+    </ul>
+</Layout>

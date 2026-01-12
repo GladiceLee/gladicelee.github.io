@@ -1,0 +1,23 @@
+---
+import BaseLayout from "./Layout.astro";
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout pageTitle={frontmatter.title}>
+    <div class="center">
+        <img class="pro-img" width="500px" height="400px" src={frontmatter.image.url} alt={frontmatter.image.alt} />
+    </div>
+    <h2 style="text-decoration:none;">{frontmatter.title}</h2>
+    <ul class="badge__list">
+        <li>
+            <span class="badge badge--item">ISSUER</span>{frontmatter.issuer}
+        </li>
+        <li>
+            <span class="badge badge--item">DATE</span>{frontmatter.date}
+        </li>
+        <li>
+            <span class="badge badge--item">LINK</span><a class="badge__link" href={frontmatter.link} target="_blank">{frontmatter.link}</a>
+        </li>
+    </ul>
+    <slot />
+</BaseLayout>
