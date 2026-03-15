@@ -1,5 +1,5 @@
 ---
-title: 'Analysis of Online Shopping Factors'
+title: 'Online Shopping Drivers Analysis'
 description: 'Data collection and analysis'
 image:
     url: '/images/projects/analysis_of_online_shopping_orders.png'

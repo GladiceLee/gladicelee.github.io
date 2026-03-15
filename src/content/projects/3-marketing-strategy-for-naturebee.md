@@ -1,5 +1,5 @@
 ---
-title: 'Marketing Strategy for Naturebee Product'
+title: 'Marketing Strategy for Naturebee'
 description: 'Data-driven marketing analysis'
 image:
     url: '/images/projects/naturebee.png'

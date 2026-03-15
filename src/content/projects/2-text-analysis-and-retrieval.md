@@ -1,6 +1,6 @@
 ---
-title: 'Real-Time Financial Analysis Dashboard'
-description: 'Customer feedback analysis'
+title: 'Customer Feedback Analysis using NLP'
+description: 'Text analysis and retrieval'
 image:
     url: '/images/projects/text_analysis.png'
     alt: 'GitHub wallpaper'

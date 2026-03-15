@@ -1,5 +1,5 @@
 ---
-title: 'Real-Time Financial Analysis Dashboard'
+title: 'Interactive Financial Analysis with R Shiny Dashboard'
 description: 'Interactive dashboard development'
 image:
     url: '/images/projects/interactive_financial_dashboard_using_r_shiny.png'
