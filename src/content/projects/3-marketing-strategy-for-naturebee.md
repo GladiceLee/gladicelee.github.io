@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/Marketing_Strategy_Naturebee_BeeswaxWrap
 
 This project conducts a data-driven marketing analysis to determine the optimal market selection, marketing mix strategy, and STP framework. 
 
-Checkout my [analysis report](https://gladicelee.github.io/document/report/NaturebeePresentation.pdf).
+Checkout my [analysis report](/documents/report/NaturebeePresentation.pdf).

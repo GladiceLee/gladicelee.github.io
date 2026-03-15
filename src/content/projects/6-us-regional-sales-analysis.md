@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/US_Regional_Sales
 
 This comprehensive analysis, leveraging Pandas library for data evaluation and Matplotlib for visualization, offers strategic recommendations to optimize inventory, refine marketing, and enhance sales team performance.
 
-Checkout my [analysis report](https://gladicelee.github.io/document/report/US_Regional_Sales_Analysis_pdf..pdf).
+Checkout my [analysis report](/documents/report/US_Regional_Sales_Analysis.pdf).

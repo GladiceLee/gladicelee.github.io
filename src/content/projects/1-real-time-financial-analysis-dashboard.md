@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/Financial_Analysis_Dashboard
 
 This project involves the development of an interactive financial dashboard using R Shiny, enabling real-time analysis of key financial metrics, with adjustable parameters for scenario modeling and downloadable reports.
 
-Checkout my [deployed access app](https://gladice-lee.shinyapps.io/financialdashboard/) and my [analysis report](https://gladicelee.github.io/document/report/FinancialDashboard.pdf).
+Checkout my [deployed access app](https://gladice-lee.shinyapps.io/financialdashboard/) and my [analysis report](/documents/report/FinancialDashboard.pdf).

@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/Analysis-of-Online-Shopping-Factors/tree/m
 
 This analysis provides key insights into online consumer behavior, offering data-driven recommendations for targeted marketing strategies based on gender, holidays, income, and age.
 
-Check my [analysis report](https://gladicelee.github.io/document/report/Analysis_of_Online_Shopping_Factors_ppt.pdf).
+Check my [analysis report](/documents/report/Analysis_of_Online_Shopping_Factors_ppt.pdf).

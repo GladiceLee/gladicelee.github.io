@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/Hotel-Optimization-Enhancing-Operations-an
 
 This report presents an analysis-based strategy to optimize hotel operations and enhance customer experience without increasing staff.
 
-Checkout my [analysis report](https://gladicelee.github.io/document/report/Consulting%20Presentation.pdf).
+Checkout my [analysis report](/documents/report/Consulting%20Presentation.pdf).

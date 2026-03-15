@@ -17,4 +17,4 @@ github: https://github.com/GladiceLee/Text-Analytics-and-Retrieval-for-Customer-
 
 This project applies advanced NLP techniques to analyze five years of customer feedback from top clients, providing actionable insights to enhance sales performance, product offerings, and overall service quality. 
 
-Checkout my [analysis report](https://gladicelee.github.io/document/report/TARFlowPresentation.pdf)
+Checkout my [analysis report](/documents/report/TARFlowPresentation.pdf)
